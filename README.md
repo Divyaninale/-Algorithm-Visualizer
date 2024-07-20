@@ -12,7 +12,7 @@ Features Added:
 ✅ Randomize Input  
 ✅ Choose Various Algorithms  
 
-Features to Add:
+Features to Add:  
 🔧 Make Interface More Mobile Friendly  
 🔧 Visualization with Sound  
 🔧 ToolTip at Size Slider  
