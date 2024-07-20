@@ -7,8 +7,9 @@ Sorting-Visualizer is a web application designed to visually demonstrate various
 
 Features Added:
 
-✅ Control Visualization Speed
-✅ Change Array Size
+✅ Control Visualization Speed  
+✅ Change Array Size  
+
 ✅ Randomize Input
 ✅ Choose Various Algorithms
 Features to Add:
